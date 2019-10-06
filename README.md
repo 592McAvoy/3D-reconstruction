@@ -5,9 +5,7 @@
 - median level details
 
 input image：
-
-![](img\1.png)
+![](img/1.png)
 
 output model：
-
-![](img\1.gif)
+![](img/1.gif)
